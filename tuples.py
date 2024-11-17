@@ -5,3 +5,12 @@ for a in tup:
 lis = ["amr", "sonar", "bangla"]
 for b in lis:
     print(b)
+
+obj = {
+    'a': 'amir',
+    "hamja": 'hs'
+}
+
+for a in obj:
+    print(obj['a'])
+    
