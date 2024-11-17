@@ -13,4 +13,6 @@ obj = {
 
 for a in obj:
     print(obj['a'])
-    
+
+sets = {'amir', "hamja"}
+print(sets)
