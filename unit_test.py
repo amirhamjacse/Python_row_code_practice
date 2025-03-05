@@ -37,3 +37,4 @@ if __name__ == "__main__":
 #     assert sum_of_num(3, 5) == 8
 #     assert sum_of_num(4, 6) == 10
 #     assert sum_of_num(5, 7) == 12
+
