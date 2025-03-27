@@ -1,3 +1,8 @@
+"""
+lambda arguments: expression
+"""
+
+
 squre = lambda x: x*x
 
 print(squre(2))
