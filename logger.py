@@ -14,3 +14,4 @@ logging.warning("This is a warning message1")
 logging.error("This is an error message")
 
 logging.critical("This is a critical message")
+
