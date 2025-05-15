@@ -29,7 +29,8 @@ Perfect for beginners. Covers the foundation of Python programming.
 - Basic Input/Output
 - Error Handling with `try`/`except`
 
-📂 Folder: `basic/`
+📂 Folder: `Basic Python/`
+
 
 ---
 
@@ -51,7 +52,7 @@ Designed for those who know the basics and want to level up.
 - Decorators
 - Working with APIs using `requests`
 
-📂 Folder: `intermediate/`
+📂 Folder: `Intermediate Python/`
 
 ---
 
@@ -72,7 +73,7 @@ For experienced Python programmers who want to master the language.
 - Working with Data (NumPy, Pandas, etc.)
 - Testing (unittest, pytest)
 
-📂 Folder: `advanced/`
+📂 Folder: `Advanced Python/`
 
 ---
 
