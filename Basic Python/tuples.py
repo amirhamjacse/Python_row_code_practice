@@ -1,18 +1,19 @@
-tup = ("amar", "sonar", "bangla")
-for a in tup:
+tuple = ("amar", "sonar", "bangla")
+for a in tuple:
     print(a)
 
-lis = ["amr", "sonar", "bangla"]
-for b in lis:
+list = ["amr", "sonar", "bangla"]
+for b in list:
     print(b)
 
-obj = {
+objs = {
     'a': 'amir',
     "hamja": 'hs'
 }
 
-for a in obj:
-    print(obj['a'])
+for a in objs:
+    print(objs['a'])
 
 sets = {'amir', "hamja"}
 print(sets)
+
