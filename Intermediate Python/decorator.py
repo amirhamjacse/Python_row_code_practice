@@ -50,3 +50,12 @@ def slow_function():
     print("Finished!")
 
 slow_function()
+
+def repeat(n):
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            for _ in range(n):
+                func(*args, **kwargs)
+        return wrapper
+    return decorator
