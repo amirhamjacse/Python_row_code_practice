@@ -17,3 +17,6 @@ for a in objs:
 sets = {'amir', "hamja"}
 print(sets)
 
+tuple = ("amar", "naam", "hamja", "28")
+for word in tupe:
+    print(word, "Words in this tuple")
