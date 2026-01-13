@@ -78,5 +78,8 @@ account.withdraw(2000)  # Output: Insufficient balance or invalid withdrawal amo
 account.withdraw(400)
 print("Balance after withdrawal:", account.get_balance())  # Output: 1100
 
-
-
+class Hamja:
+    def get(args**, kwargs**):
+        print("works")
+        hamja = 10
+        return hamja
