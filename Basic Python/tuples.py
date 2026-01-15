@@ -28,3 +28,5 @@ for word in second_list:
 
 sets_two = {"amir", "hamja"}
 print(sets_two)
+
+print("something")
