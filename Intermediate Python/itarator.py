@@ -17,3 +17,8 @@ it = MyIterator()
 
 for num in it:
     print(num)  # Output: 1 2 3 4 5
+
+its = MyIterator()
+
+for nums in it:
+    print(nums)  # Output: 1 2 3 4 5
