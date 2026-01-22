@@ -7,3 +7,5 @@ fun = partial(multiplays, 2)
 
 print(fun(10))
 print(fun(12))
+print(fun(14))
+
