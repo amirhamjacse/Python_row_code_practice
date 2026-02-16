@@ -39,3 +39,11 @@ b2 = np.random.randint(1,10,5)  # random integers
 print(b1, b2)
 
 
+a = np.array([[1,2,3],
+              [4,5,6]])
+
+print(a[0,1])     # 2
+print(a[:,1])     # entire column
+print(a[1,:])     # entire row
+
+a[a > 3]   # elements greater than 3
