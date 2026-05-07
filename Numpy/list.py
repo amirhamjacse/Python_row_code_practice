@@ -72,8 +72,6 @@ m2 = np.std(a)
 m3 = np.min(a)
 m4 = np.max(a)
 
-
-
 # slow
 total = 0
 for i in range(1000000):
@@ -85,3 +83,6 @@ print(total )
 nploop = np.sum(np.arange(1000000))
 
 print(nploop)
+
+print("Result",nploop)
+print("End")
