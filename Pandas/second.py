@@ -8,3 +8,10 @@ data = {
 }   
 df = pd.DataFrame(data)         
 print(df)       
+
+
+data.tail(2)
+
+data.head(2)
+
+data.values_counts()
